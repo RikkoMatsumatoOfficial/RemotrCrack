@@ -6,7 +6,7 @@ Due To This Vulnerability:
 
 <img width="928" height="401" alt="dnSpy_PhogVSXHXH" src="https://github.com/user-attachments/assets/a623403e-d114-48bb-a7eb-7066a1fb7715" />
 
-I'm Created this Crack for Remotr(Website is no longed working and this program is dead!!!)...
+I'm Created this Crack for Remotr(Website is no longer working and this program is dead!!!)...
 
 > [!WARNING]
 > RemotrService is fully disabling crack!!! You need disable Service or just use my Crack!!!
