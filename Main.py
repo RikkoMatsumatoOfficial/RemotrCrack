@@ -16,6 +16,8 @@ def Main():
     reg.SetValueEx(remotr_curuser, "Auth", 0, reg.REG_SZ, auth)
     reg.SetValueEx(remotr_x64, "CurrentAccount", 0, reg.REG_SZ, username)
     reg.SetValueEx(remotr_x64, "Auth", 0, reg.REG_SZ, auth)
+    print("Succesfully Cracking Remotr!!! Created by RikkoMatsumatoOfficial!!!")
+    time.sleep(6)
     for proc in util_ps.process_iter():
         if(proc == "RemotrService.exe"):
             proc.kill()
