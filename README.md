@@ -8,6 +8,8 @@ Due To This Vulnerability:
 
 I'm Created this Crack for Remotr(Website is no longed working and this program is dead!!!)...
 
+[Join To My Discord Server](https://discord.gg/rikkomatsumato)
+
 > [!WARNING]
 > RemotrService is fully disabling crack!!! You need disable Service or just use my Crack!!!
 
