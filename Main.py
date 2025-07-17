@@ -21,7 +21,7 @@ def Main():
     for proc in util_ps.process_iter():
         if(proc == "RemotrService.exe"):
             proc.kill()
-            print("Successfully Terminated!!!")
+            print("Successfully Terminated(RemotrService.exe)!!!")
             time.sleep(20)
             os._exit(300)
         else:
